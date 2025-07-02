@@ -1,4 +1,4 @@
-TASK C
+#TASK C - RNN & LSTM
 # -*- coding: utf-8 -*-
 """QBUS6860 Task C - 25 May.ipynb
 
